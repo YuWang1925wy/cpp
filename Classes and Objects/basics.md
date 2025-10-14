@@ -1,5 +1,5 @@
 | Class	| Object|
-|-------:| :-----------: | :-------|
+|-------:| :-------|
 |A blueprint or template for creating objects. |	An instance of a class with actual values. |
 |No memory is allocated for a class until an object is created. |	Memory is allocated when an object is created. |
 |Conceptual entity describing structure and behaviour. |	A real-world entity created from the class. |

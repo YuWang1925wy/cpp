@@ -14,5 +14,6 @@
 
 Total hours: 19h
 
-10/18/2025 1h
+10/18/2025 2h
 - Function pointers
+- Structures(Initialization, passing structures to functions, typedef for structures, nested structure basics)

@@ -13,3 +13,6 @@
 - Pointer arithmetic(pointers +/- pointers, pointers +/- integers, comparison)
 
 Total hours: 19h
+
+10/18/2025 1h
+- Function pointers

@@ -26,3 +26,7 @@ Total hours: 19h
 - OOP basics: definition of abstraction, encapsulation, inheritance and polymorphism
 - abstract class
 - function overloading and overriding(forms of polymorphism)
+
+10/25/2025 1h
+- new and delete keywors(dynamic memory management)
+- placement new operator

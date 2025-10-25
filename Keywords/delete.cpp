@@ -2,8 +2,10 @@
 delete ptr;
 delete[] ptr;
 
-frees the pointed-to object, but the pointer variable still holds a dangling (invalid) value. 
+frees the pointed-to object(value or memory block), but the pointer variable still holds a dangling value(pointer is not destroyed)
 Using or deleting it again is undefined behavior
+
+the delete operator has void return type
 */
 
 #include <iostream>

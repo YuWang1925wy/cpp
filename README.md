@@ -27,6 +27,7 @@ Total hours: 19h
 - abstract class
 - function overloading and overriding(forms of polymorphism)
 
-10/25/2025 1h
-- new and delete keywors(dynamic memory management)
+10/25/2025 2.5h
+- new and delete keywords(dynamic memory management), memory leak(definition, how to prevent and detect)
 - placement new operator
+- Double pointers

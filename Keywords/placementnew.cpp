@@ -29,10 +29,5 @@ int main()
     cout << "1st Int             2nd Int" << endl;
     cout << *pBuf << "                         " << *qBuf << endl;
 
-    /*Do not delete these pointers. With placement new, you don’t own heap storage. If the type had a destructor, call it manually:
-    pInt->~int();  // trivial for int, so not needed
-    qInt->~int();
-    */
-
     return 0;
 }

@@ -21,3 +21,8 @@ Total hours: 19h
 10/22/2025 2h
 - self-referential structures
 - bit fields
+
+10/24/2025 1.5h
+- OOP basics: definition of abstraction, encapsulation, inheritance and polymorphism
+- abstract class
+- function overloading and overriding(forms of polymorphism)

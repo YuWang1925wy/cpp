@@ -31,3 +31,9 @@ Total hours: 19h
 - new and delete keywords(dynamic memory management), memory leak(definition, how to prevent and detect)
 - placement new operator
 - Double pointers
+
+Total hours: 27h (+8)
+
+10/27/2025 1.5h
+- NULL pointer
+- references

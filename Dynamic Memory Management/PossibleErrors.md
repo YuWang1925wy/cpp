@@ -1,3 +1,7 @@
+### Dynamic Memory Allocation
+- can allocate memory at runtime, allows us to handle data of varying sizes
+- allocated memory stays there(if not de-allocated) even after the function call is over. So a function can return pointer to the allocated memory.
+
 ### Errors Associated with Dynamic Memory
 
 - Memory Leaks

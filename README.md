@@ -34,6 +34,7 @@ Total hours: 19h
 
 Total hours: 27h (+8)
 
-10/27/2025 1.5h
+10/27/2025 2.5h
 - NULL pointer
 - references
+- malloc(), realloc(), calloc(), free()

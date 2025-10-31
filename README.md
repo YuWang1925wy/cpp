@@ -38,3 +38,6 @@ Total hours: 27h (+8)
 - NULL pointer
 - references
 - malloc(), realloc(), calloc(), free()
+
+10/29/2025 1.5h
+- destructors, constructors(default, parameterized, copy, move)

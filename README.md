@@ -41,3 +41,7 @@ Total hours: 27h (+8)
 
 10/29/2025 1.5h
 - destructors, constructors(default, parameterized, copy, move)
+
+10/30/2025 1.5h
+- copy constructor(shallow copy, deep copy)
+- assignment operator(=) overloading

@@ -45,3 +45,6 @@ Total hours: 27h (+8)
 10/30/2025 1.5h
 - copy constructor(shallow copy, deep copy)
 - assignment operator(=) overloading
+
+11/3/2025
+- compare copy constructor and assignment operator [Code](Comparisons/AssignmentOperatorvsCopyConstructor.cpp) [Table](Comparisons/AssignmentOperatorvsCopyConstructor.md)

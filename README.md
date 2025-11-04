@@ -13,6 +13,7 @@
 - Pointer arithmetic(pointers +/- pointers, pointers +/- integers, comparison)
 
 Total hours: 19h
+
 ---
 
 10/18/2025 2h
@@ -34,6 +35,7 @@ Total hours: 19h
 - Double pointers
 
 Total hours: 27h (+8)
+
 ---
 
 10/27/2025 2.5h
@@ -49,6 +51,7 @@ Total hours: 27h (+8)
 - assignment operator(=) overloading
 
 Total hours: 32.5h (+5.5)
+
 ---
 
 11/3/2025 2.5h

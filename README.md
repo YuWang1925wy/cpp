@@ -56,5 +56,9 @@ Total hours: 32.5h (+5.5)
 
 11/3/2025 2.5h
 - compare copy constructor and assignment operator [Code](Comparisons/AssignmentOperatorvsCopyConstructor.cpp) [Table](Comparisons/AssignmentOperatorvsCopyConstructor.md)
-- forms and examples of polymorphism [Function Overloading](OOP/Polymorphism/FunctionOverloading.cpp) [Function Overriding](OOP/Polymorphism/FunctionOverrding.cpp) [Operator Overloading](OOP/Polymorphism/OperatorOverloading.cpp)
+- forms and examples of polymorphism [Function Overloading](OOP/Polymorphism/FunctionOverloading.cpp) [Function Overriding](OOP/Polymorphism/FunctionOverrding.cpp) [Operator Overloading](OOP/Polymorphism/OperatorOverloading.cpp) [Compile time vs Run time polymorphism](Comparisons/CompileTimevsRunTimePolymorphism.md)
 - operator overloading [Code](Operators/OperatorOverloading.cpp) [Example1](Operators/operatoroverloading1.cpp) [Example2](Operators/operatoroverloading2.cpp) [Example3](Operators/operatoroverloading3.cpp)
+
+11/4/2025 2h
+- conversion operator [Code](Operators/operatoroverloading4.cpp), conversion constructor [Code](Operators/operatoroverloading5.cpp)
+- virtual function [Code](Functions/VirtualFunction.cpp) [Example](Functions/virtualfunctionexample.cpp), pure virtual function [Code](Functions/PureVirtualFunction.cpp), early and late binding [Code](Functions/Binding.cpp)

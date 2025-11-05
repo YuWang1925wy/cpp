@@ -1,5 +1,6 @@
 // assignment operator(=) are predefined to operate only on built-in data types
-// the compiler automatically provides a default assignment operator for classes, which perform shallow copy of each member of the class from one object to another
+// the compiler automatically provides a default assignment operator for classes(这里也用到了operator overloading,不同的class其实是不同的data types，所以每次=的意义其实都不一样), 
+//which perform shallow copy of each member of the class from one object to another
 
 // = overloading is binary operator overloading
 // only a non-static member function should be used to overload =

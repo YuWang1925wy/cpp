@@ -47,7 +47,7 @@ Total hours: 27h (+8)
 - destructors, constructors(default, parameterized, copy, move)
 
 10/30/2025 1.5h
-- copy constructor(shallow copy, deep copy)
+- copy constructor(shallow copy, deep copy) [When%20is%20copy%20constructor%20called](Classes%20and%20Objects/copyconstructors3.cpp)
 - assignment operator(=) overloading
 
 Total hours: 32.5h (+5.5)
@@ -62,3 +62,8 @@ Total hours: 32.5h (+5.5)
 11/4/2025 2h
 - conversion operator [Code](Operators/operatoroverloading4.cpp), conversion constructor [Code](Operators/operatoroverloading5.cpp)
 - virtual function [Code](Functions/VirtualFunction.cpp) [Example](Functions/virtualfunctionexample.cpp), pure virtual function [Code](Functions/PureVirtualFunction.cpp), early and late binding [Code](Functions/Binding.cpp)
+
+11/5/2025 2h
+- [vTable&vPtr](OOP/Polymorphism/vTablevPtr.cpp) 
+- Difference of malloc and calloc[Code](Dynamic%20Memory%20Management/malloccallocdifference.cpp) [Table](Comparisons/mallocvscalloc.md)
+- return value optimization[RVO](Compilers/RVO.cpp), named return value optimization[NRVO](Compilers/NRVO.cpp) [Table](Comparisons/RVOvsNRVO.md), copy elision[Code](Compilers/CopyElision.cpp)

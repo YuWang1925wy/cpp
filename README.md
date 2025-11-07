@@ -67,3 +67,6 @@ Total hours: 32.5h (+5.5)
 - [vTable&vPtr](OOP/Polymorphism/vTablevPtr.cpp) 
 - Difference of malloc and calloc [Code](Dynamic%20Memory%20Management/malloccallocdifference.cpp) [Table](Comparisons/mallocvscalloc.md)
 - return value optimization [RVO](Compilers/RVO.cpp), named return value optimization [NRVO](Compilers/NRVO.cpp) [Table](Comparisons/RVOvsNRVO.md), copy elision [Code](Compilers/CopyElision.cpp)
+
+11/6/2025 1.5h
+- [const](Keywords/const.cpp), [const member function](Keywords/const2.cpp)

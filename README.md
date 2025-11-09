@@ -62,6 +62,7 @@ Total hours: 32.5h (+5.5)
 11/4/2025 2h
 - conversion operator [Code](Operators/operatoroverloading4.cpp), conversion constructor [Code](Operators/operatoroverloading5.cpp)
 - virtual function [Code](Functions/VirtualFunction.cpp) [Example](Functions/virtualfunctionexample.cpp), pure virtual function [Code](Functions/PureVirtualFunction.cpp), early and late binding [Code](Functions/Binding.cpp)
+- [VirtualDestructor](Classes%20and%20Objects/VirtualDestructors.cpp)
 
 11/5/2025 2h
 - [vTable&vPtr](OOP/Polymorphism/vTablevPtr.cpp) 
@@ -70,3 +71,7 @@ Total hours: 32.5h (+5.5)
 
 11/6/2025 1.5h
 - [const](Keywords/const.cpp), [const member function](Keywords/const2.cpp)
+
+11/8/2025 3h
+- [copy and swap idiom](Operators/CopySwapIdiom.cpp)(better way to overload =)
+- [Friend Class](Classes%20and%20Objects/FriendClass.cpp), [Friend Functions](Functions/FriendFunctions.cpp), [friend function to multiple class](Functions/friendfunctions1.cpp), [Friend vs Virtual](Comparisons/FriendvsVirtual.md), [operator overloading with friend](Functions/friendfunctions2.cpp)

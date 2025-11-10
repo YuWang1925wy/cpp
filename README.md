@@ -78,3 +78,8 @@ Total hours: 32.5h (+5.5)
 
 11/9/2025 1.5h
 - [Move Constructor](Classes%20and%20Objects/MoveConstructors.cpp), [use move constructor to avoidc opies](Classes%20and%20Objects/moveconstructors1.cpp), [move constructor with noexcept](Classes%20and%20Objects/moveconstructors2.cpp)
+
+Total hours: 45h (+12.5)
+
+---
+

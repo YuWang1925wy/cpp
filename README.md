@@ -83,3 +83,6 @@ Total hours: 45h (+12.5)
 
 ---
 
+11/15/2025 2h
+- [Rule of Three](Classes%20and%20Objects/RuleOfThree.cpp), [Rule of Five](Classes%20and%20Objects/RuleOfFive.cpp)
+- move assignment operators [Code](Operators/MoveAssignmentOperator.cpp), [Example](Operators/moveassignmentoperator1.cpp)

@@ -77,7 +77,7 @@ Total hours: 32.5h (+5.5)
 - [Friend Class](Classes%20and%20Objects/FriendClass.cpp), [Friend Functions](Functions/FriendFunctions.cpp), [friend function to multiple class](Functions/friendfunctions1.cpp), [Friend vs Virtual](Comparisons/FriendvsVirtual.md), [operator overloading with friend](Functions/friendfunctions2.cpp)
 
 11/9/2025 1.5h
-- [Move Constructor](Classes%20and%20Objects/MoveConstructors.cpp), [use move constructor to avoidc opies](Classes%20and%20Objects/moveconstructors1.cpp), [move constructor with noexcept](Classes%20and%20Objects/moveconstructors2.cpp)
+- [Move Constructor](Classes%20and%20Objects/MoveConstructors.cpp), [use move constructor to avoid copies](Classes%20and%20Objects/moveconstructors1.cpp), [move constructor with noexcept](Classes%20and%20Objects/moveconstructors2.cpp)
 
 Total hours: 45h (+12.5)
 
@@ -86,3 +86,6 @@ Total hours: 45h (+12.5)
 11/15/2025 2h
 - [Rule of Three](Classes%20and%20Objects/RuleOfThree.cpp), [Rule of Five](Classes%20and%20Objects/RuleOfFive.cpp)
 - move assignment operators [Code](Operators/MoveAssignmentOperator.cpp), [Example](Operators/moveassignmentoperator1.cpp)
+
+11/16/2025 45 mins
+- [Strings](Strings/Strings.cpp)

@@ -1,0 +1,1 @@
+// allows you to define a template that will be complied by your usage(get the complier to write codes for you based on a set of rules)

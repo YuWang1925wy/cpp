@@ -87,5 +87,6 @@ Total hours: 45h (+12.5)
 - [Rule of Three](Classes%20and%20Objects/RuleOfThree.cpp), [Rule of Five](Classes%20and%20Objects/RuleOfFive.cpp)
 - move assignment operators [Code](Operators/MoveAssignmentOperator.cpp), [Example](Operators/moveassignmentoperator1.cpp)
 
-11/16/2025 45 mins
-- [Strings](Strings/Strings.cpp)
+11/16/2025-11/17/2025 2.5h
+- [Strings](Strings/Strings.cpp), string functions [Code](Strings/StringFunctions.cpp) [Table](Strings/StringFunctions.md), strings in C [Code](Strings/StringsinC.cpp)
+- [Unions](Fundamentals/Unions.cpp)

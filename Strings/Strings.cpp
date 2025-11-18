@@ -57,6 +57,10 @@ int main() {
     str.erase(5, 4);    // erasing part of the string, O(n)
     cout << "After erase: " << str << endl;
 
+    string text = "I like dogs.";
+    text.replace(7, 4, "cats");
+    cout << "After replace: " << text << endl;
+
     cout << endl;
     // 6. substring extraction, time complexity O(len)
     string sub1 = str.substr(0, 5); // substr(pos, len)
